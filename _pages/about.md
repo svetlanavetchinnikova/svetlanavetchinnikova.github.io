@@ -18,6 +18,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
  <br>
- <br>
-
+ 
 I am a linguist with a broad research profile in applied, corpus, and cognitive linguistics. A lot of my work revolves around chunking as a domain-general cognitive process. I have studied meaning-shift units in second language learning, perceptual chunking in speech processing, and individual variation from a usage-based perspective – all of which in one or another way relate back to chunking. I am also interested in complexity theory, interdisciplinarity, and development of research methods.
