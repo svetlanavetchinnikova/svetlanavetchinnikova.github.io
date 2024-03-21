@@ -283,7 +283,7 @@ scholar:
   last_name: Vetchinnkikova
   first_name: Svetlana
 
-  style: apa
+  style: unified-style-sheet-for-linguistics
   locale: en
 
   source: /_bibliography/
