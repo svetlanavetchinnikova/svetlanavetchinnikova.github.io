@@ -13,7 +13,7 @@ Topics in English Linguistics Online (5 cr., BA level, with Maura Ratia)<br>
 Language Testing (5 cr., MA level)<br>
 Applied Linguistic Perspectives on Vocabulary (5 cr., MA level)<br>
 Phraseology and Language Learning (5 cr., BA level)<br>
-English as a Lingua Franca: Changing Language Practices (5 cr., Helsinki Summer School, with invited speakers)<br>
-English as a Lingua Franca – a New Language? (5 cr., Helsinki Summer School, with invited speakers)<br>
+English as a Lingua Franca: Changing Language Practices (5 cr., for the Helsinki Summer School)<br>
+English as a Lingua Franca – a New Language? (5 cr., for the Helsinki Summer School)<br>
 Approaches to Language Patterning (5 cr., MA level, with Turo Hiltunen) <br>
 Academic Writing (5 cr., BA level)<br>
