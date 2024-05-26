@@ -9,9 +9,9 @@ nav_order: 6
 
 <b>Editing & peer review</b>
 
-2023 –      Book series editor, <a href= "https://hup.fi/site/books/series/ahead/">AHEAD (Helsinki University Press)
-2014 – 2017	Editorial assistant, <i>Applied Linguistics</i> (Oxford University Press)
-2012 – 2014	Editorial assistant, <i>Journal of English as a Lingua Franca</i> (De Gruyter)
+2023 – &nbsp &nbsp Book series editor, <a href= "https://hup.fi/site/books/series/ahead/">AHEAD (Helsinki University Press) <br>
+2014 – 2017	&nbsp Editorial assistant, <i>Applied Linguistics</i> (Oxford University Press)<br>
+2012 – 2014	&nbspEditorial assistant, <i>Journal of English as a Lingua Franca</i> (De Gruyter)<br>
 
 <b>Reviewed for:</b> 
 
