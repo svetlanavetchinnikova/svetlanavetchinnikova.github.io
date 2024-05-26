@@ -1,27 +1,4 @@
 {
-  "basics": {
-    "name": 
-    "label":
-    "image":
-    "email":
-    "phone":
-    "url":
-    "summary":
-    "location": {
-      "address": 
-      "postalCode": 
-      "city": 
-      "countryCode": 
-      "region":
-    },
-    "profiles": [
-      {
-        "network": 
-        "username": 
-        "url":
-      }
-    ]
-  },
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
