@@ -2,11 +2,18 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 5
 ---
+<b>(Co-)developed courses:</b>
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+Quantitative Methods in Applied Linguistics (5 cr., MA level)<br>
+Topics in English Linguistics Online (5 cr., BA level, with Maura Ratia)<br>
+Language Testing (5 cr., MA level)<br>
+Applied Linguistic Perspectives on Vocabulary (5 cr., MA level)<br>
+Phraseology and Language Learning (5 cr., BA level)<br>
+English as a Lingua Franca: Changing Language Practices (5 cr., Helsinki Summer School, with invited speakers)<br>
+English as a Lingua Franca – a New Language? (5 cr., Helsinki Summer School, with invited speakers)<br>
+Approaches to Language Patterning (5 cr., MA level, with Turo Hiltunen) <br>
+Academic Writing (5 cr., BA level)<br>
