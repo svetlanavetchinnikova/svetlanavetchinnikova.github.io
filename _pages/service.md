@@ -24,6 +24,12 @@ Language and Speech<br>
 Research Methods in Applied Linguistics<br>
 Studies in Variation, Contacts, and Change in English (e-series)<br>
 Status Quaestionis<br>
-Routledge</i>
+Routledge</i> <br>
 
+<b>Organisation of scientific meetings</b>
+
+2023 &nbsp;	<a href="https://blogs.helsinki.fi/interdisciplinaryfoundations/"> “Theoretical Foundations for Interdisciplinarity”</a>, co-organizer, Helsinki Collegium for Advanced Studies <br>
+2017 &nbsp;	10th Anniversary Conference of English as a Lingua Franca: “ELF and Changing English”, co-organizer, University of Helsinki <br>
+2015 &nbsp;	“Changing English: Integrating cognitive, social & typological perspectives” (ChangE 2015), conference secretary, University of Helsinki<br>
+2013 &nbsp;	“Changing English: Contacts & Variation (ChangE 2013)”, conference secretary, University of Helsinki
 
