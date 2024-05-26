@@ -30,7 +30,7 @@ Vetchinnikova, Svetlana & Turo Hiltunen. 2020. <a href="https://doi.org/10.1017/
 
 Mauranen, Anna & Svetlana Vetchinnikova. 2020. <a href="https://doi.org/10.1017/9781108675000.002" > Introduction: Dynamics of Change from Different Perspectives and on Different Scales</a>. In Anna Mauranen & Svetlana Vetchinnikova (eds.), <i>Language Change: The Impact of English as a Lingua Franca</i>, 1–10. Cambridge University Press.<br>
 
-Vetchinnikova, Svetlana. 2017. <a href=" https://doi.org/10.1515/9783110429657-015" > On the relationship between the cognitive and the communal: A complex systems perspective</a>. In Filppula, Markku, Juhani Klemola, Anna Mauranen & Svetlana Vetchinnikova (eds.), <i> Changing English: Global and local perspectives (Topics in English Linguistics)</i>, 277-310. Berlin: Mouton de Gruyter.<br>
+Vetchinnikova, Svetlana. 2017. <a href=" https://doi.org/10.1515/9783110429657-015"> On the relationship between the cognitive and the communal: A complex systems perspective</a>. In Filppula, Markku, Juhani Klemola, Anna Mauranen & Svetlana Vetchinnikova (eds.), <i> Changing English: Global and local perspectives (Topics in English Linguistics)</i>, 277-310. Berlin: Mouton de Gruyter.<br>
 
 Vetchinnikova, Svetlana, Anna Mauranen & Nina Mikušová. 2017. <a href="https://doi.org/10.21437/Interspeech.2017"> ChunkitApp: Investigating the relevant units of online speech processing</a>. In INTERSPEECH 2017 – 18th Annual Conference of the International Speech Communication Association, August 20–24, Stockholm, Sweden, Proceedings, 811-812.<br>
 
