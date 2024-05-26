@@ -11,7 +11,8 @@ nav_order: 4
 Perceptual chunking of spontaneous speech: What can we learn from neuroscience? Langnet Winter School, University of Helsinki <br>
 Disciplinary community as a complex adaptive system, Perspectives on Science seminar, University of Helsinki<br>
 Chunking up speech in real-time: Linguistic predictors and cognitive constraints, Boğaziçi University<br>
-Exploring individual variation in constructional schematicity with mixed models, ICCG12, Prague and Corpus Linguistics, Lancaster <br>
+Exploring individual variation in constructional schematicity with mixed models, ICCG12, Prague <br>
+Exploring individual variation in constructional schematicity with mixed models, Corpus Linguistics, Lancaster <br>
 Perceptual chunking of spontaneous speech: Linguistic cues and cognitive constraints, ICLC, Dusseldorf<br>
 
 <b>2022</b>
