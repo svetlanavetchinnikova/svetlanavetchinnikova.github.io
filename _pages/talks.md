@@ -26,7 +26,7 @@ Linguistic predictors and cognitive constraints of perceptual chunking, AFinLa, 
 
 Chunking up speech in real-time: Linguistic predictors and cognitive constraints (poster), AMLaP 28, York<br>
 
-Estimating chunking ability of L2 listenersand ’chunkability’ of speech, SALC8, Turku <br>
+Estimating chunking ability of L2 listeners and ’chunkability’ of speech, SALC8, Turku <br>
 
 Chunking at the individuel level, ICAME 43, Cambridge<br>
 
