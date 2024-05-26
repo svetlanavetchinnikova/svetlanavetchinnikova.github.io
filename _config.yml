@@ -284,6 +284,7 @@ scholar:
   first_name: Svetlana
 
   dependent/style: unified-style-sheet-for-linguistics
+  
   locale: en
 
   source: /_bibliography/
