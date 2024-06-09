@@ -7,13 +7,13 @@ nav: true
 nav_order: 6
 ---
 
-<b>Editing & peer review</b>
+<b>Editing</b>
 
 2023 – &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Book series editor, <a href= "https://hup.fi/site/books/series/ahead/"><i>AHEAD</i> (Helsinki University Press) </a> <br>
 2014 – 2017	&nbsp; Editorial assistant, <i>Applied Linguistics</i> (Oxford University Press)<br>
 2012 – 2014	&nbsp; Editorial assistant, <i>Journal of English as a Lingua Franca</i> (De Gruyter)<br>
 
-<b>Reviewed for:</b> 
+<b>Peer review:</b> 
 
 <i>Journal of Experimental Psychology<br>
 Studies in Second Language Acquisition<br>
