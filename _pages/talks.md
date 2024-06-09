@@ -8,7 +8,7 @@ nav_order: 4
 ---
 <b>2023</b>
 
-Perceptual chunking of spontaneous speech: What can we learn from neuroscience? Langnet Winter School, University of Helsinki <br>
+<i>Perceptual chunking of spontaneous speech: What can we learn from neuroscience?</i> Langnet Winter School, University of Helsinki <br>
 
 Disciplinary community as a complex adaptive system, Perspectives on Science seminar, University of Helsinki<br>
 
