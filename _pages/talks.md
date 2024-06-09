@@ -6,6 +6,16 @@ description: (a selection)
 nav: true
 nav_order: 4
 ---
+<b>Upcoming talks</b>
+
+<i>Individual variation in perceptual and usage-based chunking</i>, Distinguished Speakers in Language Science Colloquium (invited), Saarland University, Germany<br>
+
+<i>Chunking and reanalysis at the individual level</i>, 45th ICAME Conference, University of Vigo, Spain<br>
+
+<i>Perceptual chunking of spontaneous speech</i> (poster), Highlights in the Language Sciences Conference 2024, Radboud University, Nijmegen, Netherlands <br>
+
+<i>Modelling constructional schematicity using nested random effects</i>, 57th Annual Meeting of the Societas Linguistica Europaea, University of Helsinki<br>
+
 <b>2023</b>
 
 <i>Perceptual chunking of spontaneous speech: What can we learn from neuroscience?</i> Langnet Winter School, University of Helsinki <br>
