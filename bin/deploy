@@ -82,12 +82,15 @@ else
     git checkout -b $SRC_BRANCH
 fi
 
-# Checkout DEPLOY_BRANCH branch
-if [ `git branch | grep $DEPLOY_BRANCH` ]
-then
-  git branch -D $DEPLOY_BRANCH
-fi
-git checkout  $DEPLOY_BRANCH
+## Checkout DEPLOY_BRANCH branch
+#if [ `git branch | grep $DEPLOY_BRANCH` ]
+#then
+#  git branch -D $DEPLOY_BRANCH
+#fi
+set +e
+git branch -D $DEPLOY_BRANCH
+set -e
+git checkout -b $DEPLOY_BRANCH
 
 # Export JEKYLL_ENV=production
 export JEKYLL_ENV=production
