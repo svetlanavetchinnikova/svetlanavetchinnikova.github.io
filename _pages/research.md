@@ -9,14 +9,12 @@ nav_order: 2
 <b> Individual variation </b>
 
 Usage-based approaches see language as an inventory of patterns learned from exposure. Since everyone’s exposure is different, personal inventories should vary as a function of usage.<br>
+
 Already in my book, I studied second language learners as separate individuals by matching their language use to their own language exposure. In Vetchinnikova (2017), I conceptualized the relationship between the cognitive and the communal levels of language representation using complex systems and operationalizes it with corpus data. The latest paper asks whether frequent repetition in individual usage leads to idiosyncratic entrenchment and reanalysis. It uses multilevel regression to model constructional change over time at different levels of schematicity within a personal corpus of language use. <br>
 
 Vetchinnikova, Svetlana. (preprint) <a href="https://osf.io/preprints/psyarxiv/2zxsb"> Exploring individual variation in constructional schematicity using random effects.</a> <br> 
-
 Vetchinnikova, Svetlana & Turo Hiltunen. 2020. <a href="https://doi.org/10.1017/9781108675000.012" > ELF and Language Change at the Individual Level</a>. In Anna Mauranen & Svetlana Vetchinnikova (eds.), <i>Language Change: The Impact of English as a Lingua Franca</i>, 205–233. Cambridge University Press.<br>
-
 Vetchinnikova, Svetlana. 2019. <a href="https://doi.org/10.1017/9781108758703"> <i>Phraseology and the Advanced Language Learner.</i></a> Cambridge: Cambridge University Press. <br>
-
 Vetchinnikova, Svetlana. 2017. <a href=" https://doi.org/10.1515/9783110429657-015"> On the relationship between the cognitive and the communal: A complex systems perspective</a>. In Filppula, Markku, Juhani Klemola, Anna Mauranen & Svetlana Vetchinnikova (eds.), <i> Changing English: Global and local perspectives (Topics in English Linguistics)</i>, 277-310. Berlin: Mouton de Gruyter.<br>
 
 
