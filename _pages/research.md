@@ -57,7 +57,7 @@ Filppula, Markku, Juhani Klemola, Anna Mauranen & Svetlana Vetchinnikova (eds.).
 
 In Vetchinnikova et al. (2022), we developed statistical techniques for assessing statistical significance of crowdsourced chunk boundaries.<br>
 
-In Vetchinnikova, Mauranen and Mikušová (2017), we describe the first version of a tablet application <i>ChunkitApp</i> which is designed to collect perceived chunk boundaries in listening to natural speech. <i>ChunkitApp 2.0</i> is now available at <a href="https://www.chunkitapp.online/">https://www.chunkitapp.online</a>
+In Vetchinnikova, Mauranen and Mikušová (2017), we describe the first version of a tablet application <i>ChunkitApp</i> which is designed to collect perceived chunk boundaries in listening to natural speech. <i>ChunkitApp 2.0</i> is now freely available.
 
 In Hynninen, Pietikäinen  and Vetchinnikova (2017), we examined the flagging of code-switches in the ELFA corpus. We interpreted code-switching as a language phenomenon a speaker perceives to be potentially problematic for the hearer. According to the distributional hypothesis in corpus linguistics, items occurring with similar accompanying co-text are likely to be functionally similar. Capitalizing on this idea, we used flagging as the co-text of code-switching to identify other language phenomena that can be perceived as potentially problematic for the hearer. 
 
