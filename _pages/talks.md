@@ -8,19 +8,27 @@ nav_order: 4
 ---
 <b>Upcoming talks</b>
 
-<i>Individual variation in perceptual and usage-based chunking</i>, Distinguished Speakers in Language Science Colloquium (invited), Saarland University, Germany<br>
+<i>Modelling constructional schematicity using nested random effects</i>, 57th Annual Meeting of the Societas Linguistica Europaea, 21–24 August, University of Helsinki<br>
 
-<i>Chunking and reanalysis at the individual level</i>, 45th ICAME Conference, University of Vigo, Spain<br>
+<i>Idiosyncratic entrenchment and linguistic individuality: Case studies of an online blog community</i> (invited), <a href="https://www.dariadayter.org/osso" > lecture series “Online Selves - Self Online (OSSO)” </a> hosted by Daria Dayter (Tampere University) and Sofia Rüdiger (University of Bayreuth), 23 October
 
-<i>Perceptual chunking of spontaneous speech</i> (poster), Highlights in the Language Sciences Conference 2024, Radboud University, Nijmegen, Netherlands <br>
+<b>2024</b>
 
-<i>Modelling constructional schematicity using nested random effects</i>, 57th Annual Meeting of the Societas Linguistica Europaea, University of Helsinki<br>
+<i>Individual variation in perceptual and usage-based chunking</i> (invited), <a href="https://sfb1102.uni-saarland.de/colloquium/"> Distinguished Speakers in Language Science Colloquium</a>, 13 June, Saarland University, Germany<br>
+
+<i>Chunking and reanalysis at the individual level</i>, 45th ICAME Conference, 18–22 June, University of Vigo, Spain<br>
+
+<i>Perceptual chunking of spontaneous speech</i> (poster), Highlights in the Language Sciences Conference 2024, 8–11 July, Radboud University, Nijmegen, Netherlands <br>
+
+<i>Как мы воспринимаем речь? [How do we process speech?] </i> (invited),  <a href="https://observereffect.mave.digital/"> podcast Эффект Наблюдателя [Observer Effect]</a>, 29 February, episode 59
 
 <b>2023</b>
 
-<i>Perceptual chunking of spontaneous speech: What can we learn from neuroscience?</i> Langnet Winter School, University of Helsinki <br>
+<i>Perceptual chunking of spontaneous speech: What can we learn from neuroscience?</i> (invited), <a href="https://blogs.helsinki.fi/langnet-2016-2019/"> Langnet Winter School </a>, University of Helsinki <br>
 
-<i>Disciplinary community as a complex adaptive system</i>, Perspectives on Science seminar, University of Helsinki<br>
+<i>Disciplinary community as a complex adaptive system</i>, <a href="https://tint-helsinki.fi/?page_id=27"> Perspectives on Science seminar </a>, TINT Centre for Philosophy of Social Science, 16 October, University of Helsinki<br>
+
+<i>Disciplinary communities: contact, variation and change</i>, <a href="https://www.helsinki.fi/en/researchgroups/diversity-linguistics"> Helsinki Diversity Linguistics Group (HALS) </a> meeting, 29 September, University of Helsinki <br>
 
 <i>Chunking up speech in real-time: Linguistic predictors and cognitive constraints</i>, Boğaziçi University<br>
 

@@ -33,3 +33,9 @@
   type: list
   contents:
     - Russian, English, Finnish
+
+- title: Hobbies
+  type: list
+  contents:
+    - All endurance sports – cross-country skiing, open water swimming, running, cycling
+
