@@ -16,7 +16,7 @@ Filppula, Markku, Juhani Klemola, Anna Mauranen & Svetlana Vetchinnikova (eds.).
 
 <b>Peer-reviewed articles</b>
 
-Vetchinnikova, Svetlana. (forthcoming). Idiosyncratic entrenchment: Tracing change in constructional schematicity with nested random effects. <i>Corpus Linguistics and Linguistic Theory.</i> <a href="https://tuhat.helsinki.fi/ws/portalfiles/portal/319769126/Vetchinnikova_2024_CLLT_AM.pdf"> [pdf] </a> <br> 
+Vetchinnikova, Svetlana. 2024. <a href = "https://doi.org/10.1515/cllt-2023-0092"> Idiosyncratic entrenchment: Tracing change in constructional schematicity with nested random effects</a>. <i>Corpus Linguistics and Linguistic Theory.</i> <a href="https://tuhat.helsinki.fi/ws/portalfiles/portal/319769126/Vetchinnikova_2024_CLLT_AM.pdf"> [pdf] </a> <br> 
 
 Vetchinnikova, Svetlana, Alena Konina, Nitin Williams, Nina Mikušová & Anna Mauranen. 2023. <a href="https://doi.org/10.1017/langcog.2023.8">Chunking up speech in real time: linguistic predictors and cognitive constraints</a>. <i>Language and Cognition </i> 15(3). 453–479.<a href="https://helda.helsinki.fi/server/api/core/bitstreams/aaf482b5-1c27-466a-9700-180cd582ffdb/content"> [pdf] </a> <br> 
 

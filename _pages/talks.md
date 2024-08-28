@@ -6,7 +6,7 @@ description: (a selection)
 nav: true
 nav_order: 4
 ---
-Upcoming talks
+<b>Upcoming talks</b>
 
 <i>Modelling constructional schematicity using nested random effects</i>, 57th Annual Meeting of the Societas Linguistica Europaea, 21–24 August, University of Helsinki<br>
 
