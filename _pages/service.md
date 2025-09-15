@@ -15,7 +15,9 @@ nav_order: 6
 
 <b>Peer review</b> 
 
-<i>Journal of Experimental Psychology: Learning, Memory, and Cognition<br>
+<i>Linguistics Vanguard<br>
+npj Mental Health Research<br>
+Journal of Experimental Psychology: Learning, Memory, and Cognition<br>
 Studies in Second Language Acquisition<br>
 Applied Linguistics<br>
 Journal of Pragmatics<br>
