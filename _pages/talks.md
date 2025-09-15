@@ -8,17 +8,29 @@ nav_order: 4
 ---
 <b>Upcoming talks</b>
 
-<i>Modelling constructional schematicity using nested random effects</i>, 57th Annual Meeting of the Societas Linguistica Europaea, 21–24 August, University of Helsinki<br>
+<i>Idiosyncratic entrenchment: Usage shapes grammar at the individual level too! </i>, lecture series “Variation within (and across) the individual” (invited), the Munich Center for Linguistics at LMU Munich, 17 December <br>
 
-<i>Idiosyncratic entrenchment and linguistic individuality: Case studies of an online blog community</i> (invited), <a href="https://www.dariadayter.org/osso" > lecture series “Online Selves - Self Online (OSSO)” </a> hosted by Daria Dayter (Tampere University) and Sofia Rüdiger (University of Bayreuth), 23 October
+<b>2025</b>
+
+with Mikhail Zolotilin, <i>Perceptual chunking of spontaneous speech: Bridging structure and statistics </i>, 58th Annual Meeting of the Societas Linguistica Europaea, 26–29 August, Bordeaux, France<br>
+
+with Mikhail Zolotilin, <i>Does perceptual chunking facilitate predictive processing in spontaneous speech? </i>  (poster), 47th Annual Meeting of the Cognitive Science Society, July 30–August 2, San Francisco, US<br>
+
+with Mikhail Zolotilin, <i>Using relative entropy to track disciplinary developments over time </i>, 46th ICAME conference, 18–22 June, Vilnius, Lithuania<br>
+
+with Mikhail Zolotilin, <i>The role of surprisal in perceptual chunking of spontaneous speech </i>  (poster), Rational Approaches in Language Science (RAILS), 13–15 February, Saarbruecken, Germany<br>
 
 <b>2024</b>
 
-<i>Individual variation in perceptual and usage-based chunking</i> (invited), <a href="https://sfb1102.uni-saarland.de/colloquium/"> Distinguished Speakers in Language Science Colloquium</a>, 13 June, Saarland University, Germany<br>
+<i>Idiosyncratic entrenchment and linguistic individuality: Case studies of an online blog community</i> (invited), <a href="https://www.dariadayter.org/osso" > lecture series “Online Selves - Self Online (OSSO)” </a> hosted by Daria Dayter (Tampere University) and Sofia Rüdiger (University of Bayreuth), 23 October
+
+<i>Modelling constructional schematicity using nested random effects</i>, 57th Annual Meeting of the Societas Linguistica Europaea, 21–24 August, University of Helsinki<br>
+
+<i>Perceptual chunking of spontaneous speech</i> (poster), Highlights in the Language Sciences Conference 2024, 8–11 July, Radboud University, Nijmegen, Netherlands <br>
 
 <i>Chunking and reanalysis at the individual level</i>, 45th ICAME Conference, 18–22 June, University of Vigo, Spain<br>
 
-<i>Perceptual chunking of spontaneous speech</i> (poster), Highlights in the Language Sciences Conference 2024, 8–11 July, Radboud University, Nijmegen, Netherlands <br>
+<i>Individual variation in perceptual and usage-based chunking</i> (invited), <a href="https://sfb1102.uni-saarland.de/colloquium/"> Distinguished Speakers in Language Science Colloquium</a>, 13 June, Saarland University, Germany<br>
 
 <i>Как мы воспринимаем речь? [How do we process speech?] </i> (invited),  <a href="https://observereffect.mave.digital/"> podcast Эффект Наблюдателя [Observer Effect]</a>, 29 February, episode 59
 
