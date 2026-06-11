@@ -9,13 +9,18 @@ nav_order: 6
 
 <b>Editing</b>
 
+2026 – &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Member of the Editorial Board, <a href= "https://www.degruyterbrill.com/journal/key/cogl/html#overview"><i>Cognitive Linguistics</i> (De Gruyter) </a> <br>
 2023 – &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Book series editor, <a href= "https://hup.fi/site/books/series/ahead/"><i>AHEAD</i> (Helsinki University Press) </a> <br>
 2014 – 2017	&nbsp; Editorial assistant, <i>Applied Linguistics</i> (Oxford University Press)<br>
 2012 – 2014	&nbsp; Editorial assistant, <i>Journal of English as a Lingua Franca</i> (De Gruyter)<br>
 
 <b>Peer review</b> 
 
-<i>Linguistics Vanguard<br>
+<i>Constructions<br>
+Frontiers in Language Sciences<br>
+Lingua<br>
+Corpus Linguistics and Linguistic Theory<br> 
+Linguistics Vanguard<br>
 npj Mental Health Research<br>
 Journal of Experimental Psychology: Learning, Memory, and Cognition<br>
 Studies in Second Language Acquisition<br>
